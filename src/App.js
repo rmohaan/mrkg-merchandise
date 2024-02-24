@@ -1,7 +1,9 @@
+import Categories from './components/categories';
+
 const App = () => {
   return (
     <div className="App">
-      Hello MRKG~~~
+      <Categories />
     </div>
   );
 }
